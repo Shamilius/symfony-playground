@@ -1,0 +1,1 @@
+# API DOC: https://hezzl-test-task.sham.one/api/v1/
